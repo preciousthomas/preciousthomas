@@ -1,16 +1,31 @@
-## Hi there 👋
+👋 Hi, I'm Precious Thomas
 
-<!--
-**preciousthomas/preciousthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Backend Developer in Training** | ALX Student | Growth-minded learner  
+💻 I’m passionate about debugging, building real-world web apps, and solving tough problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🔧 Tech Stack & Tools
+- 🐍 Python | Bash | SQL
+- 🧰 Git & GitHub | Linux | API development
+- 🧠 Currently learning: Git & GitHub, Shell commands and Linux permissions
+
+---
+
+ 🚧 Projects in Progress
+- ✨ Building a **Banking System API** with Flask
+- 🗃️ Working on **Portfolio CMS backend**
+- 👀 More to come... stay tuned!
+
+---
+
+💡 Motto
+> *“I’m growth minded and believe every bug is a step forward.”*
+
+---
+
+🔗 Connect with Me
+- 🌐 [My Portfolio](https://sites.google.com/view/chikwesiriportfolio/home)
+- 📧 preshusthomas28@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/precious-thomas-019567253)
+
