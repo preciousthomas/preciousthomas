@@ -6,14 +6,13 @@
 ---
 
  🔧 Tech Stack & Tools
-- 🐍 Python | Bash | SQL
+- 🐍 Python | Bash | SQL |JavaScript
 - 🧰 Git & GitHub | Linux | API development
 - 🧠 Currently learning: Git & GitHub, Shell commands and Linux permissions
 
 ---
-
  🚧 Projects in Progress
-- ✨ Building a **Banking System API** with Flask
+- ✨ Building a **Banking System API** Django
 - 🗃️ Working on **Portfolio CMS backend**
 - 👀 More to come... stay tuned!
 
